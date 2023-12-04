@@ -1,3 +1,11 @@
+// 创建canvas元素
+var canvas = document.createElement("canvas");
+
+// 设置canvas的id属性
+canvas.id = "theCanvas";
+
+// 将canvas元素添加到文档中的某个元素中
+document.body.appendChild(canvas);
 
 			const theCanvas = document.getElementById('theCanvas'),
 				ctx = theCanvas.getContext('2d'),
