@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>lujunan1109</title><link>https://lujunan1109.github.io/</link><description>不以物喜不以己悲</description><copyright>lujunan1109</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/64249889?v=4</url><title>avatar</title><link>https://lujunan1109.github.io/</link></image><lastBuildDate>Fri, 15 Dec 2023 14:57:27 +0000</lastBuildDate><managingEditor>lujunan1109</managingEditor><pubDate>Fri, 15 Dec 2023 14:57:27 +0000</pubDate><ttl>60</ttl><webMaster>lujunan1109</webMaster><item><title>day03</title><link>https://lujunan1109.github.io//post/day03.html</link><description>1. vue3组件封装&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>lujunan1109</title><link>https://lujunan1109.github.io/</link><description>不以物喜不以己悲</description><copyright>lujunan1109</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/64249889?v=4</url><title>avatar</title><link>https://lujunan1109.github.io/</link></image><lastBuildDate>Tue, 19 Dec 2023 08:05:27 +0000</lastBuildDate><managingEditor>lujunan1109</managingEditor><pubDate>Tue, 19 Dec 2023 08:05:27 +0000</pubDate><ttl>60</ttl><webMaster>lujunan1109</webMaster><item><title>总结和规划</title><link>https://lujunan1109.github.io//post/zong-jie-he-gui-hua.html</link><description>### 简单介绍&#13;
+&#13;
+今年也来到了我的职业生涯的第五个年头了，距离年底也不过70天左右就来到了2024年，今年我28岁，过了今年就29了，现在的情况是在cs买了房成了房地产晚期的房奴，从一无所有到负债累累，自己身上也只有一辆代步车的存款，回顾自己这五年在广州，有在电商公司待过一段时间，大部分职业生涯都是在传统电网或者传统互联网公司工作，虽然自己一个人但是也没觉得多孤单，就是有点高不成低不就的感觉很容易在未来被更具有性价比的年轻人淘汰，自己是有点混日子的感觉，既然发生了就着眼于未来吧，承认自己是一个普通人也没什么，重点还是需要每一年都要有成长，无论是从物质上或者精神上都可以，没必要和别人比，因为无论你如何比较最后你都会不开心，那么我为啥要给自己找不开心呢？好好还贷攒钱，减肥，看看书慢慢来一样可以变得比去年优秀。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/zong-jie-he-gui-hua.html</guid><pubDate>Tue, 19 Dec 2023 07:27:03 +0000</pubDate></item><item><title>day06</title><link>https://lujunan1109.github.io//post/day06.html</link><description>1. 阅读 26min&#13;
+2. 俯卧撑 3 * 10&#13;
+3. 写切换皮肤技术文章 50%。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/day06.html</guid><pubDate>Mon, 18 Dec 2023 15:42:45 +0000</pubDate></item><item><title>day05</title><link>https://lujunan1109.github.io//post/day05.html</link><description>1. 打篮球&#13;
+2. 俯卧撑 6 * 10&#13;
+3. 做做饭&#13;
+&#13;
+。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/day05.html</guid><pubDate>Sun, 17 Dec 2023 12:48:34 +0000</pubDate></item><item><title>day04</title><link>https://lujunan1109.github.io//post/day04.html</link><description>1.  play game&#13;
+2.  cooking&#13;
+。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/day04.html</guid><pubDate>Sat, 16 Dec 2023 17:52:42 +0000</pubDate></item><item><title>day03</title><link>https://lujunan1109.github.io//post/day03.html</link><description>1. vue3组件封装&#13;
 2. 5*10 俯卧撑&#13;
 &#13;
 &#13;
@@ -8,7 +18,10 @@
 - 早起跑步&#13;
 - 更新简历；逛逛招聘网站&#13;
 - 打球&amp;coding&#13;
-。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/day03.html</guid><pubDate>Fri, 15 Dec 2023 14:56:56 +0000</pubDate></item><item><title>day01</title><link>https://lujunan1109.github.io//post/day01.html</link><description>1. 跑步3km&#13;
+。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/day03.html</guid><pubDate>Fri, 15 Dec 2023 14:56:56 +0000</pubDate></item><item><title>day02</title><link>https://lujunan1109.github.io//post/day02.html</link><description>1. vue3 封装组件实践&#13;
+2. 5*10 俯卧撑&#13;
+&#13;
+。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/day02.html</guid><pubDate>Thu, 14 Dec 2023 14:51:49 +0000</pubDate></item><item><title>day01</title><link>https://lujunan1109.github.io//post/day01.html</link><description>1. 跑步3km&#13;
 2. 封装vue3业务组件&#13;
 &#13;
 总结：对于语法还是**不熟练**，多写；晚上有空**坚持**运动；。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/day01.html</guid><pubDate>Wed, 13 Dec 2023 14:29:21 +0000</pubDate></item><item><title>记录自己新博客的第一篇文章</title><link>https://lujunan1109.github.io//post/ji-lu-zi-ji-xin-bo-ke-de-di-yi-pian-wen-zhang.html</link><description>利用issue来记录自己的文章，我想这绝对是一个非常规的想法，但是这绝对很geek。</description><guid isPermaLink="true">https://lujunan1109.github.io//post/ji-lu-zi-ji-xin-bo-ke-de-di-yi-pian-wen-zhang.html</guid><pubDate>Fri, 01 Dec 2023 06:40:06 +0000</pubDate></item></channel></rss>
