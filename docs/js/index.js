@@ -20,7 +20,7 @@ document.body.appendChild(canvas);
 				random_points = [],
 				all_points = [];
 
-			theCanvas.style = "position: fixed; top: 0px; left: 0px;";
+			theCanvas.style = "position: fixed; top: 0px; left: 0px;z-index:-1;";
 
 
 			function draw() {
